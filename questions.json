@@ -1,0 +1,22 @@
+[{
+    "question": "Inside which HTML element do we put the JavaScript?",
+    "choice1": "<script></script>",
+    "choice2": "<javascript></javascript>",
+    "choice3": "<js></js>",
+    "choice4": "<scripting></scripting>",
+    "answer": 1
+}, {
+    "question": "What is the correct syntax for referring to an external script called 'xxx.js'?",
+    "choice1": "<script href='xxx.js'></script>",
+    "choice2": "<script name='xxx.js'></script>",
+    "choice3": "<script scr='xxx.js'></script>",
+    "choice4": "<script file='xxx.js'></script>",
+    "answer": 3
+}, {
+    "question": "How do you write 'Hello World' in an alert box?",
+    "choice1": "msgBox('Hello World');",
+    "choice2": "alertBox('Hello World');",
+    "choice3": "msg('Hello World');",
+    "choice4": "alert('Hello World');",
+    "answer": 4
+}]
